@@ -10,4 +10,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilsadkut&show_icons=true&theme=radical)
 <br>
 <br>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dilsadkut&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
 ![Profile views](https://komarev.com/ghpvc/?username=dilsadkut&color=green)
