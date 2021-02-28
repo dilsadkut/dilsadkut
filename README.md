@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Data Science with Phyton
-- 📫 How to reach me: kutdilsad2@gmail.com
+- :palm_tree: I’m currently learning Data Science with Phyton
+- :email: How to reach me: kutdilsad2@gmail.com
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilsadkut&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
