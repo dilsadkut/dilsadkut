@@ -8,5 +8,7 @@
 <br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilsadkut)](https://github.com/dilsadkut/github-readme-stats)
-
+<br>
+<br>
+![Profile views](https://komarev.com/ghpvc/?username=dilsadkut&color=green)
 
