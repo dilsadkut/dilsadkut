@@ -1,6 +1,6 @@
 ## Hi there, I'm Dılşad Kut 👋
 
-- :palm_tree: I’m currently learning Data Science with phyton
+- :palm_tree: I’m currently learning Data Science with Phyton and R Languages
 - :email: How to reach me: kutdilsad2@gmail.com
 
 ## Some of My Github Stats :chart_with_upwards_trend:
