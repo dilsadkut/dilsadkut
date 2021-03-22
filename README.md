@@ -1,7 +1,7 @@
 ## Hi there, I'm Dılşad Kut 👋
 
-- :palm_tree: I’m currently learning Data Science with Python and R Languages
-- :email: How to reach me: kutdilsad2@gmail.com
+- 🌴: I’m currently learning Data Science with Python and R Languages
+- ✉️: How to reach me: kutdilsad2@gmail.com
 
 ## Some of My Github Stats 📈
 
