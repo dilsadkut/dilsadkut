@@ -8,14 +8,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilsadkut&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilsadkut&show_icons=true&theme=tokyonight&count_private=true)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 
 ![Profile views](https://komarev.com/ghpvc/?username=dilsadkut&color=blue)
 
 ## Some of My Github Repositories 👨‍💻
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dilsadkut&repo=PythonBasics)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dilsadkut&repo=PythonTraining)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dilsadkut&repo=PythonWorkshop)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dilsadkut&repo=PythonBasics&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dilsadkut&repo=PythonTraining&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dilsadkut&repo=PythonWorkshop&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact with Me :speech_balloon:
 
