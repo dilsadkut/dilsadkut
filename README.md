@@ -5,7 +5,7 @@
 
 ## Some of My Github Stats :chart_with_upwards_trend:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilsadkut&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilsadkut&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilsadkut&count_private=true&show_icons=true&theme=tokyonight)
 
 ![Profile views](https://komarev.com/ghpvc/?username=dilsadkut&color=blue)
