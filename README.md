@@ -12,9 +12,9 @@
 
 ## Some of My Github Repositories 👨‍💻
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dilsadkut&repo=PythonBasics&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dilsadkut&repo=PythonTraining&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dilsadkut&repo=PythonWorkshop&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dilsadkut&repo=PythonBasics&show_icons=true&theme=tokyonight&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dilsadkut&repo=PythonTraining&show_icons=true&theme=tokyonight&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dilsadkut&repo=PythonWorkshop&show_icons=true&theme=tokyonight&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact with Me :speech_balloon:
 
