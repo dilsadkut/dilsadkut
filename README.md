@@ -11,7 +11,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=dilsadkut&color=blue)
 
-## Some of My Github Repository ✔️
+## Some of My Github Repositories 👨‍💻
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dilsadkut&repo=PythonBasics)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dilsadkut&repo=PythonTraining)](https://github.com/anuraghazra/github-readme-stats)
