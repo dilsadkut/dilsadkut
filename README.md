@@ -17,6 +17,7 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dilsadkut&repo=PythonBasics&show_icons=true&theme=tokyonight&show_owner=true)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dilsadkut&repo=PythonTraining&show_icons=true&theme=tokyonight&show_owner=true)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dilsadkut&repo=PythonWorkshop&show_icons=true&theme=tokyonight&show_owner=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dilsadkut&repo=titanic_Analysis&show_icons=true&theme=tokyonight&show_owner=true)
 
 ## Contact with Me 💬
 
