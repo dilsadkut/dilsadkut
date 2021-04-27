@@ -1,5 +1,5 @@
 ## Hi there, I'm Dılşad Kut 👋
-#### Information Systems Engineer | Data Scientist Candidate
+### Information Systems Engineer | Data Scientist Candidate
 
 - 🌴: I’m currently learning Data Science with Python and R Languages
 - ✉️: How to reach me: kutdilsad2@gmail.com
