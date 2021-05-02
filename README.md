@@ -2,7 +2,7 @@
 ### 💻Information Systems Engineer | Data Scientist Candidate
 
 - 🌴: I’m currently learning Data Science with Python and R Languages
-- ✉️: How to reach me: kutdilsad2@gmail.com
+
 
 ## Some of My Github Stats 📈
 
@@ -26,4 +26,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilsadkut/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dilsadkut/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/dilsadkut/)
-[![Mail Badge](https://img.shields.io/badge/kutdilsad2@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kutdilsad2@gmail.com)](mailto:kutdilsad2@gmail.com)
+
