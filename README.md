@@ -1,7 +1,7 @@
 ## Hi there, I'm Dılşad Kut 👋
  
--  Information Systems Engineer | Data Scientist Candidate
--  I’m currently learning Data Science with Python and R Languages
+- 👨‍💻 Information Systems Engineer | Data Scientist Candidate
+- 🌴 I’m currently learning Data Science with Python and R Languages
 
 
 ## Some of My Github Stats 📈
@@ -13,7 +13,7 @@
 [![](https://img.shields.io/twitter/follow/dilsadkut?style=social)](https://www.twitter.com/dilsadkut)
 [![](https://img.shields.io/github/followers/dilsadkut?style=social)](https://www.github.com/dilsadkut)
 
-## Some of My Github Repositories 👨‍💻
+## Some of My Github Repositories 💻
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dilsadkut&repo=PythonWorkshop&show_icons=true&theme=tokyonight&show_owner=true)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dilsadkut&repo=titanic_Analysis&show_icons=true&theme=tokyonight&show_owner=true)
