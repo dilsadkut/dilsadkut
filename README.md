@@ -1,7 +1,7 @@
 ## Hi there, I'm Dılşad Kut 👋
  
-- 💻: Information Systems Engineer | Data Scientist Candidate
-- 🌴: I’m currently learning Data Science with Python and R Languages
+- 💻 Information Systems Engineer | Data Scientist Candidate
+- 🌴 I’m currently learning Data Science with Python and R Languages
 
 
 ## Some of My Github Stats 📈
