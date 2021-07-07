@@ -19,6 +19,8 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dilsadkut&repo=customer_Analysis&show_icons=true&theme=tokyonight&show_owner=true)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dilsadkut&repo=dataVisualization&show_icons=true&theme=tokyonight&show_owner=true)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dilsadkut&repo=Titanic-Analysis&show_icons=true&theme=tokyonight&show_owner=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dilsadkut&repo=Corona-Analysis&show_icons=true&theme=tokyonight&show_owner=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dilsadkut&repo=Suicide-Analysis&show_icons=true&theme=tokyonight&show_owner=true)
 
 
 ## Contact with Me 💬
