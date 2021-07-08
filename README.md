@@ -2,6 +2,7 @@
  
 - 👨‍💻 Information Systems Engineer | Jr. Data Scientist 
 - 🌴 I’m currently learning Data Science with Python and R Languages
+- ✉️ How to reach me: ftdrgy4uw@relay.firefox.com
 
 
 ## Some of My Github Stats 📈
